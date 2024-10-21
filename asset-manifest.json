@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0d3bde4.css",
+    "main.js": "/static/js/main.202d35fa.js",
+    "static/media/proj6.png": "/static/media/proj6.4ef1b8136d0267c23400.png",
+    "static/media/proj4.png": "/static/media/proj4.d0700627898b567c1745.png",
+    "static/media/proj5.png": "/static/media/proj5.91fa10a235c69c09d1a6.png",
+    "static/media/proj2.png": "/static/media/proj2.6af1eb74132292365ae0.png",
+    "static/media/proj1.png": "/static/media/proj1.2bdbe8133cdbac65d0df.png",
+    "static/media/proj3.png": "/static/media/proj3.9ace501391c72d0aa53f.png",
+    "static/media/img0.jpg": "/static/media/img0.fa1a4a693f55c5839a2a.jpg",
+    "static/media/python.png": "/static/media/python.368ff420d152a71031c0.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/edward.jpg": "/static/media/edward.a85dd489deb0733244fa.jpg",
+    "static/media/got.ttf": "/static/media/got.71fa190a8a1a34123fa1.ttf",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.e0d3bde4.css.map": "/static/css/main.e0d3bde4.css.map",
+    "main.202d35fa.js.map": "/static/js/main.202d35fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d3bde4.css",
+    "static/js/main.202d35fa.js"
+  ]
+}
